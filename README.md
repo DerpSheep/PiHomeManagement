@@ -1,4 +1,4 @@
-# PiHomeManagement
+# Raspberry Pi Home Management
 Home automation/monitoring software that does more than just toggle appliances.
 
 The software will consist of a Java program that runs on a Raspberry Pi, acting as the server.
