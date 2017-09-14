@@ -1,7 +1,7 @@
 # Raspberry Pi Home Management
 Home automation/monitoring software that does more than just toggle appliances.
 
-The software will consist of a Java program that runs on a Raspberry Pi, acting as the server.
+The software will consist of a Java program that runs on a Raspberry Pi, acting as the server, along with Web and Mobile apps.
 
 Accompanying iOS and Android apps will be written using <a href="https://github.com/multi-os-engine/multi-os-engine">Multi-OS Engine</a>.
 
